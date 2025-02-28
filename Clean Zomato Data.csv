@@ -462,7 +462,8 @@
 469,Summer Pavilion,Singapore,"The Ritz-Carlton, 7 Raffles Avenue,  Millenia Singapore,  039799","Marina Centre, Downtown Core","Chinese, Seafood, Cantonese, Dim Sum",300,Dollar($),No,No,No,No,4,3.9,Yellow,Good,34,Singapore
 470,The Lokal,Singapore,136 Neil Road 088865,"Neil Road, Outram","Singaporean, Australian, German",60,Dollar($),No,No,No,No,4,3.1,Orange,Average,33,Singapore
 471,I Am,Singapore,"674 North Bridge Road, #01-01 Haji Lane 188804","North Bridge Road, Rochor","Western, Fusion, Fast Food",60,Dollar($),No,No,No,No,4,3.2,Orange,Average,32,Singapore
-472,Super Loco,Singapore,"The Quayside60 Roberston Quay #01-13 238252","Robertson Quay, Singapore River","American, Mexican",95,Dollar($),No,No,No,No,4,3.2,Orange,Average,30,Singapore
+472,Super Loco,Singapore,"The Quayside
+60 Roberston Quay #01-13 238252","Robertson Quay, Singapore River","American, Mexican",95,Dollar($),No,No,No,No,4,3.2,Orange,Average,30,Singapore
 473,Artistry,Singapore,17 Jalan Pinang 199149,"Sungai Pinang, Rochor","American, Bakery, European, Burger, Fusion",50,Dollar($),No,No,No,No,3,3.8,Yellow,Good,28,Singapore
 474,Bitters & Love,Singapore,118 Telok Ayer Street 068587,"Telok Ayer Street, Outram",Finger Food,40,Dollar($),No,No,No,No,3,3.9,Yellow,Good,35,Singapore
 475,Artichoke Cafe,Singapore,"161 Middle Road, Sculpture Square 188978","Victoria, Rochor","Cafe, Spanish, Turkish, Greek",75,Dollar($),No,No,No,No,4,3.2,Orange,Average,33,Singapore
@@ -612,7 +613,8 @@
 619,Rajasthan Al Malaki,Sharjah,"Behind DPS Sharjah Primary School, Muwailih Commercial, Sharjah",Muwailih Commercial,"Indian, North Indian",60,Emirati Diram(AED),No,No,No,No,3,4.8,Dark Green,Excellent,459,UAE
 620,Applebee's,Sharjah,"Opposite Jumbo Electronics, Level 2, Sahara Centre, Al Nahda, Sharjah","Sahara Centre, Al Nahda","American, Mexican, Burger",250,Emirati Diram(AED),No,Yes,No,No,4,4.1,Green,Very Good,197,UAE
 621,Paper Fig,Sharjah,"Near Dubai Islamic Bank, Muweilah, University City, Sharjah",University City,"Cafe, Bakery, Desserts",150,Emirati Diram(AED),No,No,No,No,4,4.5,Dark Green,Excellent,143,UAE
-622,Sis Burger,Sharjah,"Behind ADNOC Petrol Station,Univercity City Road, University City, Sharjah",University City,"Fast Food, Burger",50,Emirati Diram(AED),No,No,No,No,2,3.8,Yellow,Good,12,UAE
+622,Sis Burger,Sharjah,"Behind ADNOC Petrol Station,
+Univercity City Road, University City, Sharjah",University City,"Fast Food, Burger",50,Emirati Diram(AED),No,No,No,No,2,3.8,Yellow,Good,12,UAE
 623,Crafted Blends,Sharjah,"Next To Super Bonanza Hyper Market, Opposite Defence Camp, University City, Sharjah",University City,Cafe,110,Emirati Diram(AED),No,No,No,No,4,4.2,Green,Very Good,43,UAE
 624,Jahanpanah,Agra,"E 23, Shopping Arcade, Sadar Bazaar, Agra Cantt, Agra",Agra Cantt,"North Indian, Mughlai",850,Indian Rupees(Rs.),No,No,No,No,3,3.9,Yellow,Good,140,India
 625,Rangrezz Restaurant,Agra,"E-20, Shopping Arcade, Sadar Bazaar, Agra Cantt, Agra",Agra Cantt,"North Indian, Mughlai",700,Indian Rupees(Rs.),No,No,No,No,2,3.5,Yellow,Good,71,India
@@ -1497,7 +1499,8 @@
 1504,Citron - Hotel Haut.Monde,Gurgaon,"Hotel Haut Monde, Jharsa Road, Sector 15, Gurgaon","Hotel Haute.Monde, Sector 15","North Indian, Chinese, Continental",1300,Indian Rupees(Rs.),Yes,No,No,No,3,2.7,Orange,Average,13,India
 1505,Gabbar Meals,Gurgaon,"Shop 18, Metropark Food Court, HUDA City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon","North Indian, Mughlai",450,Indian Rupees(Rs.),No,Yes,No,No,1,3.4,Orange,Average,260,India
 1506,McDonald's,Gurgaon,"Metropark Food Court, HUDA City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon","Fast Food, Burger",500,Indian Rupees(Rs.),No,Yes,No,No,2,2.7,Orange,Average,90,India
-1507,Crust Bistro,Gurgaon,"Food Court, HUDA City Center Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon","Italian, Pizza",800,Indian Rupees(Rs.),No,Yes,No,No,2,3.6,Yellow,Good,144,India
+1507,Crust Bistro,Gurgaon,"Food Court, HUDA City Center Metro
+ Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon","Italian, Pizza",800,Indian Rupees(Rs.),No,Yes,No,No,2,3.6,Yellow,Good,144,India
 1508,Dunkin' Donuts,Gurgaon,"Shop 3, HUDA City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon","Burger, Desserts, Fast Food",600,Indian Rupees(Rs.),No,Yes,No,No,2,3.6,Yellow,Good,243,India
 1509,Kabab Roll Cafe,Gurgaon,"Metropark Food Court, HUDA City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon","North Indian, Mughlai",600,Indian Rupees(Rs.),No,Yes,No,No,2,3.8,Yellow,Good,121,India
 1510,Starbucks,Gurgaon,"Ground Floor, South Wing, HUDA City Centre Metro Station, Sector 29, Gurgaon","Huda City Centre Metro Station, Sector 29, Gurgaon",Cafe,700,Indian Rupees(Rs.),No,No,No,No,2,3.8,Yellow,Good,183,India
@@ -6055,7 +6058,8 @@
 6062,Sita Ram Diwan Chand,New Delhi,"2246, Chuna Mandi, Paharganj, New Delhi",Paharganj,Street Food,100,Indian Rupees(Rs.),No,Yes,No,No,1,4.3,Green,Very Good,1317,India
 6063,Aayush Food Plaza,New Delhi,"Main Road, Sadh Nagar, Palam, New Delhi",Palam,"Chinese, Fast Food",300,Indian Rupees(Rs.),No,No,No,No,1,2.9,Orange,Average,5,India
 6064,Ankit Fast Food Corner,New Delhi,"Opposite Sanjhi Rasoi, Dabri Road, Palam, New Delhi",Palam,Chinese,200,Indian Rupees(Rs.),No,No,No,No,1,2.9,Orange,Average,5,India
-6065,Da Pizza Corner,New Delhi,"Rz-36A, Raj Nagar Part 1,Palam Colony, Opposite Piller 47, Palam, New Delhi",Palam,"Fast Food, Pizza",600,Indian Rupees(Rs.),No,No,No,No,2,3.0,Orange,Average,7,India
+6065,Da Pizza Corner,New Delhi,"Rz-36A, Raj Nagar Part 1,
+Palam Colony, Opposite Piller 47, Palam, New Delhi",Palam,"Fast Food, Pizza",600,Indian Rupees(Rs.),No,No,No,No,2,3.0,Orange,Average,7,India
 6066,Mughal Zaika Chicken Point,New Delhi,"Shop 4, K.H 83/8/1, Mahavir Enclave, Main Dabri Road, Palam, New Delhi",Palam,"North Indian, Mughlai, Chinese",400,Indian Rupees(Rs.),No,No,No,No,1,2.9,Orange,Average,4,India
 6067,Nawab Restaurant,New Delhi,"WZ 613, Raj Nagar, Palam Colony, Palam, New Delhi",Palam,"North Indian, Mughlai",400,Indian Rupees(Rs.),No,No,No,No,1,2.9,Orange,Average,7,India
 6068,New Bikaner Sweets,New Delhi,"D 105, Street 6, Mahavir Enclave, Main Palam Dabri Road, Palam, New Delhi",Palam,"Street Food, Desserts",200,Indian Rupees(Rs.),No,No,No,No,1,3.0,Orange,Average,10,India
@@ -8254,7 +8258,8 @@
 8261,Chaskaa Restaurant,Noida,"Sector 108, Near Sector 110, Noida",Sector 110,"North Indian, Mughlai, Chinese",400,Indian Rupees(Rs.),No,No,No,No,1,0.0,White,Not rated,1,India
 8262,Chawla's 2,Noida,"C-3/18, Main Market, Sector 104, Near Sector 110, Noida",Sector 110,"North Indian, Mughlai, Chinese, Fast Food",700,Indian Rupees(Rs.),No,No,No,No,2,0.0,White,Not rated,1,India
 8263,Chination,Noida,"Sector 110, Noida",Sector 110,Chinese,700,Indian Rupees(Rs.),No,No,No,No,2,0.0,White,Not rated,3,India
-8264,Essen Foods,Noida,"Shop 20, Ashirwad Complex, Opposite PathwaySchool, Sector 104, Near Sector 110, Noida",Sector 110,"North Indian, Chinese, Mughlai",500,Indian Rupees(Rs.),No,No,No,No,2,0.0,White,Not rated,0,India
+8264,Essen Foods,Noida,"Shop 20, Ashirwad Complex, Opposite Pathway
+School, Sector 104, Near Sector 110, Noida",Sector 110,"North Indian, Chinese, Mughlai",500,Indian Rupees(Rs.),No,No,No,No,2,0.0,White,Not rated,0,India
 8265,Haochi,Noida,"Shop 1 & 2, Lower Ground Floor, Hyde Park, Commercial Complex, Sector 78, Near Sector 110, Noida",Sector 110,Chinese,600,Indian Rupees(Rs.),No,No,No,No,2,0.0,White,Not rated,1,India
 8266,Lassilo,Noida,"D 51, Sector 105, Near Sector 110, Noida",Sector 110,Fast Food,200,Indian Rupees(Rs.),No,No,No,No,1,0.0,White,Not rated,0,India
 8267,Mittal Bikaneri Sweets,Noida,"A 2/22, Main Market, Sector 110, Noida",Sector 110,"Mithai, Street Food",100,Indian Rupees(Rs.),No,No,No,No,1,0.0,White,Not rated,0,India
@@ -8710,7 +8715,8 @@
 8717,Chocopur,Noida,"Near HDFC ATM, Sector 49, Noida",Sector 49,"Bakery, Desserts",500,Indian Rupees(Rs.),No,No,No,No,2,3.0,Orange,Average,11,India
 8718,Sweta Restaurant,Noida,"Barola, Near OBC Bank, Dadri Main Road, Sector 49, Noida",Sector 49,North Indian,400,Indian Rupees(Rs.),No,Yes,No,No,1,3.2,Orange,Average,61,India
 8719,Flames of Tandoor,Noida,"Main DSC Road, Near OBC Bank, Sector 49, Noida",Sector 49,"North Indian, Mughlai",450,Indian Rupees(Rs.),No,Yes,No,No,1,3.5,Yellow,Good,76,India
-8720,Shaivi's Kitchen,Noida,"Hindon Vihar, Sector 49, NoidaOpp. Dominos and ICICI BANK Sector 48",Sector 49,"North Indian, South Indian, Chinese",300,Indian Rupees(Rs.),No,No,No,No,1,0.0,White,Not rated,0,India
+8720,Shaivi's Kitchen,Noida,"Hindon Vihar, Sector 49, Noida
+Opp. Dominos and ICICI BANK Sector 48",Sector 49,"North Indian, South Indian, Chinese",300,Indian Rupees(Rs.),No,No,No,No,1,0.0,White,Not rated,0,India
 8721,Kuppies,Noida,"A-100, 2nd Floor, Sector 5, Noida",Sector 5,"Bakery, Desserts",250,Indian Rupees(Rs.),No,No,No,No,1,3.8,Yellow,Good,89,India
 8722,The Urban Chulha,Noida,"I-10, Harola, Near Sector 5, Noida",Sector 5,North Indian,300,Indian Rupees(Rs.),No,Yes,No,No,1,3.5,Yellow,Good,87,India
 8723,Goyal Chhole Kulche Wala,Noida,"G-48, Udhyog Marg, Sector 6, Near Sector 5",Sector 5,Street Food,100,Indian Rupees(Rs.),No,No,No,No,1,0.0,White,Not rated,0,India
